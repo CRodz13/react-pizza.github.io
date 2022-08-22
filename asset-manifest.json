@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/react-pizza.github.io/static/js/main.638e24a8.js",
-    "static/js/787.f38a6ade.chunk.js": "/react-pizza.github.io/static/js/787.f38a6ade.chunk.js",
-    "static/media/pizza-3.jpg": "/react-pizza.github.io/static/media/pizza-3.f2f9b9a49128f877c57f.jpg",
-    "static/media/featured3.jpg": "/react-pizza.github.io/static/media/featured3.66d68644270582e9ce8d.jpg",
-    "static/media/product-2.jpg": "/react-pizza.github.io/static/media/product-2.4c066971ce4367c6e0bc.jpg",
-    "static/media/product-1.jpg": "/react-pizza.github.io/static/media/product-1.36d084f3e4823b981b4b.jpg",
-    "static/media/sweet-2.jpg": "/react-pizza.github.io/static/media/sweet-2.d5cf1ad2859c7af98ea3.jpg",
-    "static/media/sweet3.jpg": "/react-pizza.github.io/static/media/sweet3.c495c74278ec63462c5e.jpg",
-    "static/media/product-3.jpg": "/react-pizza.github.io/static/media/product-3.115cc32b63d9b7485e7e.jpg",
-    "static/media/sweet-3.jpg": "/react-pizza.github.io/static/media/sweet-3.badeecbe98eb1e099fce.jpg",
-    "index.html": "/react-pizza.github.io/index.html",
-    "main.638e24a8.js.map": "/react-pizza.github.io/static/js/main.638e24a8.js.map",
-    "787.f38a6ade.chunk.js.map": "/react-pizza.github.io/static/js/787.f38a6ade.chunk.js.map"
+    "main.js": "/CRodz13/react-pizza.github.io.git/static/js/main.4ac3ddb4.js",
+    "static/js/787.f38a6ade.chunk.js": "/CRodz13/react-pizza.github.io.git/static/js/787.f38a6ade.chunk.js",
+    "static/media/pizza-3.jpg": "/CRodz13/react-pizza.github.io.git/static/media/pizza-3.f2f9b9a49128f877c57f.jpg",
+    "static/media/featured3.jpg": "/CRodz13/react-pizza.github.io.git/static/media/featured3.66d68644270582e9ce8d.jpg",
+    "static/media/product-2.jpg": "/CRodz13/react-pizza.github.io.git/static/media/product-2.4c066971ce4367c6e0bc.jpg",
+    "static/media/product-1.jpg": "/CRodz13/react-pizza.github.io.git/static/media/product-1.36d084f3e4823b981b4b.jpg",
+    "static/media/sweet-2.jpg": "/CRodz13/react-pizza.github.io.git/static/media/sweet-2.d5cf1ad2859c7af98ea3.jpg",
+    "static/media/sweet3.jpg": "/CRodz13/react-pizza.github.io.git/static/media/sweet3.c495c74278ec63462c5e.jpg",
+    "static/media/product-3.jpg": "/CRodz13/react-pizza.github.io.git/static/media/product-3.115cc32b63d9b7485e7e.jpg",
+    "static/media/sweet-3.jpg": "/CRodz13/react-pizza.github.io.git/static/media/sweet-3.badeecbe98eb1e099fce.jpg",
+    "index.html": "/CRodz13/react-pizza.github.io.git/index.html",
+    "main.4ac3ddb4.js.map": "/CRodz13/react-pizza.github.io.git/static/js/main.4ac3ddb4.js.map",
+    "787.f38a6ade.chunk.js.map": "/CRodz13/react-pizza.github.io.git/static/js/787.f38a6ade.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.638e24a8.js"
+    "static/js/main.4ac3ddb4.js"
   ]
 }
